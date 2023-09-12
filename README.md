@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimamasaeli91&label=Profile%20views&color=0e75b6&style=flat" alt="shimamasaeli91" /> </p>
 
-- 🔭 I’m currently working on [a book shopping webite](https://github.com/ShimaMasaeli91/Book-Shopping-Website)
+- 🔭 I’m currently working on [a book shopping website](https://github.com/ShimaMasaeli91/Book-Shopping-Website)
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **HTML, CSS, and JavaScript**
 
-- 📫 How to reach me **shimamasaeli91@gmail.com**
+- 📫 Here is how to reach me **shimamasaeli91@gmail.com**
 
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1KeXZfH3JdxtjLfqjxKJD0NM9yZ6rk2SQ/edit?usp=drive_link&ouid=100524399918107497481&rtpof=true&sd=true)
+- 📄 Here is my [resume](https://docs.google.com/document/d/1KeXZfH3JdxtjLfqjxKJD0NM9yZ6rk2SQ/edit?usp=drive_link&ouid=100524399918107497481&rtpof=true&sd=true)
 
 - ⚡ Other fact **I am also a podcaster**
 
