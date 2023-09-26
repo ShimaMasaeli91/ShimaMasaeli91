@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shimamasaeli91@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1BlhaxKjsPrKEXHNg_xLy0ybvDfZ-b9Hp/view?usp=drive_link)
 
 - ⚡ Other fact **I am also a podcaster**
 
