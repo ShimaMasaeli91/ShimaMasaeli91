@@ -17,7 +17,7 @@
 
 - 📫 Here is how to reach me **shimamasaeli91@gmail.com**
 
-- 📄 Here is my [resume](https://docs.google.com/document/d/1KeXZfH3JdxtjLfqjxKJD0NM9yZ6rk2SQ/edit?usp=drive_link&ouid=100524399918107497481&rtpof=true&sd=true)
+- 📄 Here is my [resume]([https://docs.google.com/document/d/1KeXZfH3JdxtjLfqjx](https://drive.google.com/file/d/1BlhaxKjsPrKEXHNg_xLy0ybvDfZ-b9Hp/view?usp=drive_link)KJD0NM9yZ6rk2SQ/edit?usp=drive_link&ouid=100524399918107497481&rtpof=true&sd=true)
 
 - ⚡ Other fact **I am also a podcaster**
 
