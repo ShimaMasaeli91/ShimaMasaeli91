@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishnavchanda.io)
 <h1 align="center">Hi 👋, I'm Shima Masaeli</h1>
-<h3 align="center">A passionate junior frontend developer from Iran</h3>
+<h3 align="center">A passionate junior front-end developer from Iran</h3>
 <img align="right" alt= "Coding" width= "400" src= "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimamasaeli91&label=Profile%20views&color=0e75b6&style=flat" alt="shimamasaeli91" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **React Native framework**
+- 🤝 I’m looking for help with **React and TypeScript**
 
 - 👨‍💻 All of my projects are available at [here](here)
 
