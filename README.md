@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [here](here)
 
-- 💬 Ask me about **HTML5 CSS3 JavaScript and React**
+- 💬 Ask me about **HTML5, CSS3 JavaScript and React**
 
 - 📫 How to reach me **shimamasaeli91@gmail.com**
 
