@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **React and TypeScript**
+- 🤝 I’m looking for help with **React and TypeScript **
 
 - 👨‍💻 All of my projects are available at [here](here)
 
