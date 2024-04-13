@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a book shopping webite](https://github.com/ShimaMasaeli91/Book-Shopping-Website)
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **JavaScript**
 
 - 🤝 I’m looking for help with **delving into React**
  
