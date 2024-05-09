@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1BlhaxKjsPrKEXHNg_xLy0ybvDfZ-b9Hp/view?usp=drive_link)
 
-- ⚡ Other fact **I am also a podcaster**
+- ⚡ Other fact **I am also a Youtuber and Podcaster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
