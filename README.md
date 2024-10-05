@@ -1,19 +1,19 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishnavchanda.io)
 <h1 align="center">Hi 👋, I'm Shima Masaeli</h1>
-<h3 align="center">A passionate junior front-end developer from Iran</h3>
+<h3 align="center">A passionate junior SpiderWoman!</h3>
 <img align="right" alt= "Coding" width= "400" src= "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimamasaeli91&label=Profile%20views&color=0e75b6&style=flat" alt="shimamasaeli91" /> </p>
 
 - 🔭 I’m currently working on [a book shopping webite](https://github.com/ShimaMasaeli91/Book-Shopping-Website)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Node.js, Python**
 - 
-- 🤝 I’m looking for help with **delving into React**
+- 🤝 I’m looking for help with **delving into Python**
  
 - 👨‍💻 All of my projects are available at [here](here)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, and React**
+- 💬 Ask me about **Python and JavaScript. I am also convenient with HTML, CSS and familiar with React.**
 
 - 📫 How to reach me **shimamasaeli91@gmail.com**
 
