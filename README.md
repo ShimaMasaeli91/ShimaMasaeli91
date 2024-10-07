@@ -8,12 +8,14 @@
 - 🔭 I’m currently working on [a book shopping webite](https://github.com/ShimaMasaeli91/Book-Shopping-Website)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Python**
-- 
+  
 - 🤝 I’m looking for help with **delving into Python**
  
 - 👨‍💻 All of my projects are available at [here](here)
 
 - 💬 Ask me about **Python and JavaScript. I am also convenient with HTML, CSS and familiar with React.**
+  
+- 💬 I am also convenient with **HTML, CSS and familiar with React.**
 
 - 📫 How to reach me **shimamasaeli91@gmail.com**
 
