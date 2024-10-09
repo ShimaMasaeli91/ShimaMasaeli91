@@ -13,7 +13,7 @@
  
 - 👨‍💻 All of my projects are available at [here](here)
 
-- 💬 Ask me about **Python and JavaScript.**
+- 💬 Ask me about **Python and JavaScript**.
   
 - 💬 I am also convenient with **HTML, CSS and familiar with React.**
 
