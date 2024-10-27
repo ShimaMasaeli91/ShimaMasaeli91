@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a crawler using Scrapy](https://github.com/ShimaMasaeli91/Crawler1.git)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Scrapy**
   
 - 🤝 I’m looking for help with **delving into Python**
  
