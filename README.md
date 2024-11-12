@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [a crawler using Scrapy](https://github.com/ShimaMasaeli91/Crawler1.git)
 
-- 🌱 I’m currently learning **Scrapy**
+- 🌱 I’m currently learning **Scrapy plus Node.js**
   
-- 🤝 I’m looking for help with **delving into Python**
+- 🤝 I’m looking for help with **delving into Python and Node**
  
 - 👨‍💻 All of my projects are available at [here](here)
 
 - 💬 Ask me about **Python and Node.js**
   
-- 💬 I am also convenient with **HTML, CSS and familiar with React**
+- 💬 I am also convenient with **HTML, CSS and familiar with React and TypeScript**
 
 - 📫 How to reach me **shimamasaeli91@gmail.com**
 
