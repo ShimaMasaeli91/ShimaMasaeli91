@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python and Node.js**
   
-- 💬 I am also convenient with **HTML, CSS and familiar with React and TypeScript**
+- 💬 I am also convenient with **HTML, CSS, JavaScript, React, and TypeScript**
 
 - 📫 How to reach me **shimamasaeli91@gmail.com**
 
