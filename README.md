@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Prompt Engineering and AI Agents**
   
-- 💬 I am also convenient with **HTML, CSS, JavaScript, React, TypeScript, Git, Docker, REST API, Redis, MongoDB, Ubuntu, Nginx, Node.js, Python, and Vector Databases, RAG Implementation**
+- 💬 I am also convenient with **Vector Databases and RAG Implementation**
 
 - 📫 How to reach me **shimamasaeli91@gmail.com**
 
