@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimamasaeli91&label=Profile%20views&color=0e75b6&style=flat" alt="shimamasaeli91" /> </p>
 
-- 🔭 I’m currently working on [a crawler using Scrapy](https://github.com/ShimaMasaeli91/Crawler1.git)
+- 🔭 I’m currently working on [a CS Agent](https://github.com/ShimaMasaeli91/Crawler1.git)
 
 - 🌱 I’m currently learning **AI Engineering**
    
