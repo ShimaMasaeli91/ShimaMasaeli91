@@ -1,21 +1,21 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishnavchanda.io)
 <h1 align="center">Hi 👋, I'm Shima Masaeli</h1>
-<h3 align="center">A passionate SpiderWoman!</h3>
+<h3 align="center">A passionate AI Engineer!</h3>
 <img align="right" alt= "Coding" width= "400" src= "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimamasaeli91&label=Profile%20views&color=0e75b6&style=flat" alt="shimamasaeli91" /> </p>
 
 - 🔭 I’m currently working on [a crawler using Scrapy](https://github.com/ShimaMasaeli91/Crawler1.git)
 
-- 🌱 I’m currently learning **Scrapy and Node.js**
+- 🌱 I’m currently learning **AI Engineering**
    
-- 🤝 I’m looking for help with **delving into Python and Node**
+- 🤝 I’m looking for help with **AI Agents**
  
 - 👨‍💻 All of my projects are available at [here](here)
 
-- 💬 Ask me about **Python and Node.js**
+- 💬 Ask me about **Prompt Engineering and AI Agents**
   
-- 💬 I am also convenient with **HTML, CSS, JavaScript, React, and TypeScript**
+- 💬 I am also convenient with **HTML, CSS, JavaScript, React, TypeScript, Git, Docker, REST API, Redis, MongoDB, Ubuntu, Nginx, Node.js, Python, and Vector Databases, RAG Implementation**
 
 - 📫 How to reach me **shimamasaeli91@gmail.com**
 
