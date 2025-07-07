@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1BlhaxKjsPrKEXHNg_xLy0ybvDfZ-b9Hp/view?usp=drive_link)
 
-- ⚡ Other fact **I am also an avid podcaster with a voracious appetite for knowledge, I have expressed my passion for “liberty” through my podcast and website, "Khore Ketab" (a Persian term and a politer meaning for book worm!) for 4+ years until today. Visit my blog at https://khoreketab.com**
+- ⚡ Other fact **I am also an avid podcaster. I have expressed my passion for “liberty” through my podcast and website, "Khore Ketab" (a Persian term and a politer meaning for book worm!) for 4+ years until today. Visit my blog at https://khoreketab.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
