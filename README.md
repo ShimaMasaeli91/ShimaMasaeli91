@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Prompt Engineering and AI Agents**
   
-- 💬 I am also convenient with **Vector Databases and RAG Implementation**
+- 💬 I am also convenient with **Vector Databases and RAG Embeddings**
 
 - 📫 How to reach me **abdollahshima@gmail.com**
 
