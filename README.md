@@ -11,7 +11,7 @@
    
 - 🤝 I’m looking for help with **AI Agent Engineering**
  
-- 👨‍💻 All of my projects are available at [here](https://shimamasaeli91.github.io/CV-Site/)
+- 👨‍💻 All of my projects are available at [here](https://github.com/ShimaMasaeli91/public.git)
 
 - 💬 Ask me about **Prompt Engineering and AI Agents**
   
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abdollahshima@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1BlhaxKjsPrKEXHNg_xLy0ybvDfZ-b9Hp/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/17ywVDtNkPDGGHg6paurmxFc6cxxwF9HO/view?usp=drive_link)
 
 - ⚡ Other fact **I am also an avid podcaster. I have expressed my passion for “liberty” through my podcast and website, "Khore Ketab" (a Persian term and a politer meaning for book worm!) for 4+ years until today. Visit my blog at https://khoreketab.com**
 
