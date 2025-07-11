@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimamasaeli91&label=Profile%20views&color=0e75b6&style=flat" alt="shimamasaeli91" /> </p>
 
-- 🔭 I’m currently working on [a CS Agent](https://github.com/ShimaMasaeli91/Crawler1.git)
+- 🔭 I’m currently working on [my portfolio](https://shimamasaeli91.github.io/CV-Site/)
 
 - 🌱 I’m currently learning **AI Engineering**
    
-- 🤝 I’m looking for help with **AI Agents**
+- 🤝 I’m looking for help with **AI Agent Engineering**
  
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [here](https://shimamasaeli91.github.io/CV-Site/)
 
 - 💬 Ask me about **Prompt Engineering and AI Agents**
   
 - 💬 I am also convenient with **Vector Databases and RAG Implementation**
 
-- 📫 How to reach me **shimamasaeli91@gmail.com**
+- 📫 How to reach me **abdollahshima@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1BlhaxKjsPrKEXHNg_xLy0ybvDfZ-b9Hp/view?usp=drive_link)
 
