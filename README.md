@@ -1,21 +1,21 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishnavchanda.io)
 <h1 align="center">Hi 👋, I'm Shima Abdollah</h1>
-<h3 align="center">A passionate AI Engineer!</h3>
+<h3 align="center">A passionate AI Autmation Specialist!</h3>
 <img align="right" alt= "Coding" width= "400" src= "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimamasaeli91&label=Profile%20views&color=0e75b6&style=flat" alt="shimamasaeli91" /> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://shimamasaeli91.github.io/CV-Site/)
 
-- 🌱 I’m currently learning **AI Engineering**
+- 🌱 I’m currently learning **AI Automation**
    
 - 🤝 I’m looking for help with **AI Agent Engineering**
  
 - 👨‍💻 All of my projects are available at [here](https://shimamasaeli91.github.io/public/)
 
-- 💬 Ask me about **Prompt Engineering and AI Agents**
+- 💬 Ask me about **AI Automation**
   
-- 💬 I am also convenient with **Vector Databases and RAG Embeddings**
+- 💬 I am also convenient with **Crafting Automated Tools Using AI**
 
 - 📫 How to reach me **abdollahshima@gmail.com**
 
