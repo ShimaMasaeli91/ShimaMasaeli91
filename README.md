@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abdollahshima@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/15OyfCRui20GQxz9Hs7-S7n9TPkAVC3Ni/view?usp=drive_link)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/19CUOMBwLy6Lsy6psTPEwXOm6W0dVErOl/view?usp=drive_link)
 
 - ⚡ Other fact **I am also an avid podcaster. I have expressed my passion for “liberty” through my podcast and website, "Khore Ketab" (a Persian term and a politer meaning for book worm!) for 4+ years until today. Visit my blog at https://khoreketab.com**
 
