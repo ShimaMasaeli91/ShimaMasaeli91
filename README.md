@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI Automation**
    
-- 🤝 I’m looking for help with **AI Agent Engineering**
+- 🤝 I’m looking for help with **n8n**
  
 - 👨‍💻 All of my projects are available at [here](https://shimamasaeli91.github.io/public/)
 
