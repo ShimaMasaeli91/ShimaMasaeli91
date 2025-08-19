@@ -13,9 +13,9 @@
  
 - 👨‍💻 All of my projects are available at [here](https://shimamasaeli91.github.io/public/)
 
-- 💬 Ask me about **n8n**
+- 💬 Ask me about **Workflow Automation**
   
-- 💬 I am also convenient with **Crafting Automated Tools Using AI**
+- 💬 I am also convenient with **n8n**
 
 - 📫 How to reach me **abdollahshima@gmail.com**
 
