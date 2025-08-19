@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **AI Automation**
    
-- 🤝 I’m looking for help with **n8n**
+- 🤝 I’m looking for help with **LangChain**
  
 - 👨‍💻 All of my projects are available at [here](https://shimamasaeli91.github.io/public/)
 
-- 💬 Ask me about **AI Automation**
+- 💬 Ask me about **n8n**
   
 - 💬 I am also convenient with **Crafting Automated Tools Using AI**
 
